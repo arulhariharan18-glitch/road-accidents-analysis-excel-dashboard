@@ -52,9 +52,11 @@ This project presents an interactive Excel dashboard to analyze road accident da
 * Urban areas show higher accident frequency compared to rural
 * Slight casualties are significantly higher than fatal and serious cases
 
-## 📎 GitHub Repository
+## 🔗 GitHub Repository
 
-(Add your repository link here)
+https://github.com/arulhariharan18-glitch/road-accidents-analysis-excel-dashboard
+
+
 
 ---
 
